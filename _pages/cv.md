@@ -6,6 +6,12 @@ nav: true
 nav_order: 2
 ---
 
+<style>
+  .post-header {
+    display: none;
+  }
+</style>
+
 <p>
   <a href="{{ '/assets/pdf/cv_luis_linhares.pdf' | relative_url }}" target="_blank">
     Download CV

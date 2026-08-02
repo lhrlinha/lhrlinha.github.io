@@ -8,6 +8,12 @@ nav_order: 4
 calendar: true
 ---
 
+<style>
+  .post-header {
+    display: none;
+  }
+</style>
+
 ## Instructor of Record
 
 - EC 970: Sophomore Tutorial, Harvard University (Fall 2026)

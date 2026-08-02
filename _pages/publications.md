@@ -7,12 +7,18 @@ nav: true
 nav_order: 1
 ---
 
+<style>
+  .post-header {
+    display: none;
+  }
+</style>
+
 ## Working Papers
 
 <div class="paper-entry">
 
-  <p class="paper-title">An Axiomatic Approach to Conformity</p>
-  <p class="paper-meta">Job Market Paper</p>
+  <p class="paper-title">An Axiomatic Approach to Conformity (JMP)</p>
+  #<p class="paper-meta">Job Market Paper</p>
 
 <details class="abstract-toggle">
   <summary>Abstract</summary>
