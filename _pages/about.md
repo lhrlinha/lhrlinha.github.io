@@ -29,7 +29,7 @@ latest_posts:
 
 I am a Ph.D. Candidate in Economics at Boston University. I am available for interviews for the 2026-2027 job market.
 
-My interests are in Micro Theory, IO, and Behavioral Economics. My research sits at the intersection of microeconomic theory, industrial organization, and behavioral economics. I study how bounded rationality and social concerns shape the strategic behavior of firms and the rise of social norms.
+My interests are in Microeconomic Theory, IO, and Behavioral Economics. My research sits at the intersection of microeconomic theory, industrial organization, and behavioral economics. I study how bounded rationality and social concerns shape the strategic behavior of firms and the rise of social norms.
 
 You can find my CV [here]({{ '/assets/pdf/cv_luis_linhares.pdf' | relative_url }}).
 
