@@ -16,7 +16,7 @@ calendar: true
 
 ## Instructor of Record
 
-- EC 970: Sophomore Tutorial, Harvard University (Fall 2026)
+- EC 970: Sophomore Tutorial, Harvard University (Fall 2026) [[Syllabus]]({{ '/assets/pdf/ec970_syllabus_linhares.pdf' | relative_url }})
 - PhD Math Camp, Boston University (Summer 2025)
   [[Syllabus]]({{ '/assets/pdf/syllabus_math_camp_2025.pdf' | relative_url }}) [[Lecture Notes]]({{ '/assets/pdf/lecture_notes_math_camp.pdf' | relative_url }})
 - EC332: Market Structure and Economic Performance, Boston University (Summer 2024)
