@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lhrlinha.github.io/al-folio/sitemap.xml
+Sitemap: https://lhrlinha.github.io/sitemap.xml
