@@ -6,7 +6,7 @@ subtitle: Welcome to my website!
 
 profile:
   align: justified
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Boston University, Department of Economics</p>
