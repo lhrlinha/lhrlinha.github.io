@@ -6,7 +6,7 @@ subtitle: Welcome to my website!
 
 profile:
   align: justified
-  image: prof_pic.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Boston University, Department of Economics</p>
@@ -36,3 +36,4 @@ You can find my CV [here]({{ '/assets/pdf/cv_luis_linhares.pdf' | relative_url }
 **Fields**: Microeconomic Theory, Decision Theory, Industrial Organization, Behavioral Economics
 
 **You can contact me at**: [lhrlinha@bu.edu](mailto:lhrlinha@bu.edu)
+

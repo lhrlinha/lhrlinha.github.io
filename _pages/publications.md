@@ -17,20 +17,6 @@ nav_order: 1
 
 <div class="paper-entry">
 
-  <p class="paper-title">An Axiomatic Approach to Conformity (JMP)</p>
-  #<p class="paper-meta">Job Market Paper</p>
-
-<details class="abstract-toggle">
-  <summary>Abstract</summary>
-  <div class="abstract-text">
-    I provide a behavioral characterization of conformity when individuals have social concerns, as modeled in Bernheim (1994). The problem bridges decision and game theory in a novel way, as the agents’ utility function explicitly incorporates an object that is endogenously determined in equilibrium. I consider a society described by a prior distribution of privately known types. When agents care about how others perceive them, the equilibrium choice of one type affects the inference function that guides how all other types are judged and, consequently, their payoffs (and vice versa). I first establish a representation theorem using standard decision-theoretic tools, treating the inference function as exogenous. To endogeneize the inference function, I describe the necessary restrictions on the utility function to ensure that there exists an action profile that is consistent with both utility maximization and the corresponding inference function.
-  </div>
-</details>
-
-</div>
-
-<div class="paper-entry">
-
   <p class="paper-title">Strategic Obfuscation: Influence Through Information Costs</p>
   <p class="paper-meta">with D. Monte · <em>Submitted</em></p>
   <p class="paper-links">
@@ -45,6 +31,22 @@ nav_order: 1
 </details>
 
 </div>
+
+<div class="paper-entry">
+
+  <p class="paper-title">An Axiomatic Approach to Conformity (JMP)</p>
+  #<p class="paper-meta">Job Market Paper</p>
+
+<details class="abstract-toggle">
+  <summary>Abstract</summary>
+  <div class="abstract-text">
+    I provide a behavioral characterization of conformity when individuals have social concerns, as modeled in Bernheim (1994). The problem bridges decision and game theory in a novel way, as the agents’ utility function explicitly incorporates an object that is endogenously determined in equilibrium. I consider a society described by a prior distribution of privately known types. When agents care about how others perceive them, the equilibrium choice of one type affects the inference function that guides how all other types are judged and, consequently, their payoffs (and vice versa). I first establish a representation theorem using standard decision-theoretic tools, treating the inference function as exogenous. To endogeneize the inference function, I describe the necessary restrictions on the utility function to ensure that there exists an action profile that is consistent with both utility maximization and the corresponding inference function.
+  </div>
+</details>
+
+</div>
+
+
 
 ## Works in Progress
 
