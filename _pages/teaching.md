@@ -91,7 +91,7 @@ calendar: true
 </style>
 <!-- markdownlint-enable MD033 -->
 
-I have been teaching for over ten years, including before I entered economics, and teaching remains one of the parts of my work I enjoy most. Select a course below to read its description and find teaching materials.
+I have been teaching for over ten years, even before I started studying economics, and teaching remains one of the parts of my work I enjoy most. Select a course below to read its description and find the teaching materials.
 
 ## Instructor of Record
 
@@ -121,7 +121,7 @@ This course examines how economists have tackled these questions and changed the
   </summary>
   <div class="teaching-course-content" markdown="1">
 
-**Course description.** This intensive course introduces incoming economics PhD students to the mathematical tools they will use throughout their doctoral studies. Meeting for four hours a day over two weeks, it prepares students for the problem sets they will encounter in microeconomics and macroeconomics. The lecture notes also serve as a reference for subsequent PhD coursework.
+**Course description.** This intensive course introduces incoming economics PhD students to the mathematical tools they will use throughout their studies. Meeting for four hours a day over two weeks, it prepares themn for the problem sets they will encounter in microeconomics and macroeconomics classes.
 
 **Materials:** [Syllabus]({{ '/assets/pdf/syllabus_math_camp_2025.pdf' | relative_url }}) · [Lecture Notes]({{ '/assets/pdf/lecture_notes_math_camp.pdf' | relative_url }}). Problem sets are available upon request.
 
@@ -135,7 +135,7 @@ This course examines how economists have tackled these questions and changed the
   </summary>
   <div class="teaching-course-content" markdown="1">
 
-**Course description.** This undergraduate course introduces industrial organization, with an emphasis on theory. Topics include market power, introductory game theory, and oligopoly.
+**Course description.** This undergraduate course introduces industrial organization to undergraduate students, with an emphasis on theory. Topics include market power, introductory game theory, and oligopoly.
 
 **Materials:** [Syllabus]({{ '/assets/pdf/syllabus_ec332_2024.pdf' | relative_url }}). Slides and problem sets are available upon request.
 
@@ -164,7 +164,7 @@ As a teaching assistant and teaching fellow, I have led discussion sessions, ans
 
 ### Explaining complex concepts clearly
 
-- > "Luis is a PHENOMENAL TA. He is so good at explaining difficult concepts in a clear way. I learned an incredible amount from him during the math camp and also attending his office hours and discussion section."
+- > "Luis is a phenomenal TA. He is so good at explaining difficult concepts in a clear way. I learned an incredible amount from him during the math camp and also attending his office hours and discussion section."
 - > “He explained the concepts really well and provided really useful resources of the assessments like practice questions. He also provides good real-life examples to explain the concepts.”
 - > “I really appreciate that you explain every problem in a very systematic way and show us how we might apply the same methods to variations of the problems.”
 - > “He is so good at explaining difficult concepts in a clear way. I learned an incredible amount from him during the math camp and also attending his office hours and discussion section.”

@@ -14,7 +14,7 @@ profile:
     <p>Boston, MA 02134</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # social icons are placed directly below the contact text instead
 
 announcements:
   enabled: false # includes a list of news items
@@ -36,3 +36,51 @@ You can find my CV [here]({{ '/assets/pdf/cv_luis_linhares.pdf' | relative_url }
 **Fields**: Microeconomic Theory, Decision Theory, Industrial Organization, Behavioral Economics
 
 **You can contact me at**: [lhrlinha@bu.edu](mailto:lhrlinha@bu.edu)
+
+<!-- markdownlint-disable MD033 -->
+<style>
+  .about-social {
+    margin-top: 0.5rem;
+    text-align: left;
+  }
+
+  .about-social .contact-icons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 1.5rem;
+  }
+
+  .about-social .contact-icons a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2rem;
+    min-height: 2rem;
+    line-height: 1;
+  }
+
+  .about-social .contact-icons a:focus-visible {
+    outline: 2px solid var(--global-theme-color);
+    outline-offset: 3px;
+    border-radius: 0.2rem;
+  }
+
+  .about-social .contact-icons a img,
+  .about-social .contact-icons a svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-bottom: 0;
+  }
+
+  .about-social .contact-icons a svg image {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+</style>
+
+<div class="social about-social" role="group" aria-label="Contact and social links">
+  <div class="contact-icons">{% social_links %}</div>
+</div>
+<!-- markdownlint-enable MD033 -->
