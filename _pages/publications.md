@@ -17,7 +17,7 @@ nav_order: 1
 
 <div class="paper-entry">
 
-  <p class="paper-title">Strategic Obfuscation: Influence Through Information Costs</p>
+  <p class="paper-title">Strategic Obfuscation: Influence Through Information Costs (JMP)</p>
   <p class="paper-meta">with D. Monte · <em>Submitted</em></p>
   <p class="paper-links">
     <a href="{{ '/assets/pdf/strategic_obfuscation_2026.pdf' | relative_url }}">PDF</a>
@@ -34,7 +34,7 @@ nav_order: 1
 
 <div class="paper-entry">
 
-  <p class="paper-title">An Axiomatic Approach to Conformity (JMP)</p>
+  <p class="paper-title">An Axiomatic Approach to Conformity</p>
   #<p class="paper-meta">Job Market Paper</p>
 
 <details class="abstract-toggle">
