@@ -46,8 +46,6 @@ nav_order: 1
 
 </div>
 
-
-
 ## Works in Progress
 
 <div class="paper-entry">
