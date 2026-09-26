@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Boston University<\p>
+    <p>Boston University</p>
     <p>Department of Economics</p>
     <p>B30A - 270 Bay State Road</p>
     <p>Boston, MA 02134</p>
