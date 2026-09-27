@@ -145,8 +145,6 @@ This course examines how economists have tackled these questions and changed the
 
 ## Teaching Assistant / Teaching Fellow
 
-As a teaching assistant and teaching fellow, I have led discussion sessions, answered students' questions, worked through material in greater depth than lecture time allowed, and graded assignments.
-
 - EC705: Introduction to Mathematical and Computational Economics, Boston University (Fall 2025)
   [Teaching Evaluation]({{ '/assets/pdf/evaluation_ec705.pdf' | relative_url }})
 - EC703: Microeconomic Theory, Boston University (Spring 2023)
