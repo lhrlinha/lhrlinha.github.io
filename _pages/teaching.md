@@ -166,7 +166,6 @@ This course examines how economists have tackled these questions and changed the
 - > “He explained the concepts really well and provided really useful resources of the assessments like practice questions. He also provides good real-life examples to explain the concepts.”
 - > “I really appreciate that you explain every problem in a very systematic way and show us how we might apply the same methods to variations of the problems.”
 - > “He is so good at explaining difficult concepts in a clear way. I learned an incredible amount from him during the math camp and also attending his office hours and discussion section.”
-- > “The course is presented in an incredibly accessible way, and learning the content is made very easy”
 
 ### Supporting students with patience and guidance
 
