@@ -35,8 +35,6 @@ nav_order: 1
 <div class="paper-entry">
 
   <p class="paper-title">An Axiomatic Approach to Conformity</p>
-  #<p class="paper-meta">Job Market Paper</p>
-
 <details class="abstract-toggle">
   <summary>Abstract</summary>
   <div class="abstract-text">
