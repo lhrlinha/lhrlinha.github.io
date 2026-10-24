@@ -103,11 +103,13 @@ I have been teaching for over ten years, even before I started studying economic
   </summary>
   <div class="teaching-course-content" markdown="1">
 
-### When Economics Fails!
+### When Economics Fails
 
 **Course description.** Many foundational economic models rely on strong assumptions: people are rational, markets are perfect, and decision-makers have all the information they need. How well do these assumptions hold up in the real world? People buy lottery tickets despite unfavorable odds, similar goods sell at different prices, and credit remains scarce in many developing countries. These phenomena have real consequences and can be difficult to explain using standard economic models alone.
 
 This course examines how economists have tackled these questions and changed the field along the way. Students explore what happens when we relax three central assumptions: rational agents, perfect information, and perfect markets. Drawing on behavioral and information economics, alongside evidence from development, labor, finance, and other fields, they learn to challenge established ideas and develop explanations grounded in theory and evidence. By the end of the course, students will understand the trade-offs between simplicity and tractability on the one hand, and realism and accuracy on the other.
+
+**Teaching Evaluation:** You can access my evaluation [here]({{ '/assets/pdf/evaluation_ec970_midterm_fall2026.pdf' | relative_url }}).
 
 **Materials:** [Syllabus]({{ '/assets/pdf/ec970_syllabus_linhares.pdf' | relative_url }}). Notes and assignments are available upon request.
 
