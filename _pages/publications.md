@@ -20,7 +20,7 @@ nav_order: 1
   <p class="paper-title">Strategic Obfuscation: Influence Through Information Costs (JMP)</p>
   <p class="paper-meta">with D. Monte · <em>Submitted</em></p>
   <p class="paper-links">
-    <a href="{{ '/assets/pdf/strategic_obfuscation_2026.pdf' | relative_url }}">PDF</a>
+    <a href="{{ '/assets/pdf/strategic_obfuscation_jmp.pdf' | relative_url }}">PDF</a>
   </p>
 
 <details class="abstract-toggle">
